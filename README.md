@@ -1,4 +1,4 @@
-is is my first calculator and it works simple.
+This is my first calculator and it works simple.
 Known Features:
 *Basic arithmetic(add, subtract, multiply, divide)
 *Save answer to memory
