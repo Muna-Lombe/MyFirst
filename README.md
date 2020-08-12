@@ -1,9 +1,12 @@
-# MyFirst
-This is my first project with Github
+is is my first calculator and it works simple.
+Known Features:
+*Basic arithmetic(add, subtract, multiply, divide)
+*Save answer to memory
+*Call and clears answer from memory
 
+Known Issues:
+*Does not take key inputs
+*Can not use answer is calculation
+*Can only take one math operator in a statement
 
-Its gonna be HELLO_WORLD  because a tiny blue marble 
-in the middle of a vast ocean of spaces is a nice place to sit.
-=======
-(Today(22/06/2020) I uploaded my first program. its a login program i made in C. 
-It works fairly simply but i'm still proud of what I made.
+If you find any other issues with it or any improvements, I would be more than happy to receive them. :) :) :) :)
